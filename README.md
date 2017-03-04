@@ -1,1 +1,1 @@
-# Hacker_Rank_In_C
+# HackerRank Solutions In C Language
